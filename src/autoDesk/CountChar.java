@@ -3,7 +3,7 @@ package autoDesk;
 import java.util.Scanner;
 
 class CountCharacter {
-
+/**for git**/
 	int charCount = 0;
 
 	// Method to calculate the count of the character in the string
